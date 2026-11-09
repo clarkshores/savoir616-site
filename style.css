@@ -76,8 +76,8 @@ h3{font-size:30px;font-weight:500;margin:0 0 6px}
 .store-note{font:13px/1.7 var(--sans);color:var(--muted);margin:40px 0 0;max-width:620px}
 
 .ritual{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);align-items:center;background:linear-gradient(115deg,var(--ink) 30%,var(--wine))}
-.ritual-photo{width:50%;margin:0;justify-self:center}
-.ritual-photo img{width:100%;max-height:450px;object-fit:contain}
+.ritual-photo{width:75%;margin:0;justify-self:center}
+.ritual-photo img{width:100%;max-height:675px;object-fit:contain}
 .ritual-copy{padding:90px var(--pad)}
 .ritual-copy h2{margin-bottom:28px}
 .notes{list-style:none;margin:10px 0 0;padding:0;max-width:520px}
@@ -131,7 +131,7 @@ h3{font-size:30px;font-weight:500;margin:0 0 6px}
   .meta{flex-direction:column;gap:2px;font-size:13px}
   .ritual,.layer-grid,.discovery,.story{grid-template-columns:1fr}
   .ritual-photo{margin-top:32px}
-  .ritual-photo img{max-height:280px}
+  .ritual-photo img{max-height:420px}
   .ritual-copy{padding:32px 16px 52px}
   .discovery,.story{gap:40px}
   .layer-copy{padding:26px 22px 30px}
